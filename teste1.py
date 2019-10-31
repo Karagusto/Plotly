@@ -13,11 +13,19 @@ colors = {
 }
 
 app.layout = html.Div(children=[
-    html.H1(children='EloDash'),
+    html.H1(children='EloDash',
+            style={
+                'textAlign' : 'center',
+                'color' : colors['text']
+            }
+            ),
 
-    html.Div(children='''
-        Dash: Template for Elogroup.
-    '''),
+    html.Div(children='''Dash: Template for Elogroup.''',
+             style={
+                'textAlign' : 'center',
+                'color' : colors['text']
+             }
+             ),
 
     dcc.Graph(
         id='example-graph',
