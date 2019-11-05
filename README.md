@@ -5,6 +5,7 @@ developed at Elogroup - SEFAZ-AL with examples of Dashboards mostly used
 by the team on their fronts.
 
 Creating bar graphs with tables:
+https://dash.plot.ly/datatable/callbacks
 
 Using pandas for data manipulation:
 
