@@ -7,6 +7,8 @@ by the team on their fronts.
 Creating bar graphs with tables:
 https://dash.plot.ly/datatable/callbacks
 
+https://dash.plot.ly/datatable
+
 Using pandas for data manipulation:
 
 Uploading and using vectorized images:
